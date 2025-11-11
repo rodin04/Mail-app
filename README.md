@@ -36,7 +36,7 @@ For example:
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/rodin04/cat_ai.git
+git clone https://github.com/rodin04/Mail-app.git
 ```
 
 3. Navigate to the project folder.
@@ -60,3 +60,13 @@ cd your_folder_path!!!
 ```bash
 python mail.py
 ```
+
+## Requirements
+
+- Python 3.12+  
+- Tkinter (standard library, usually included with Python)  
+- reportlab 3.6+ (`reportlab==3.6.13`) – for PDF generation  
+- PyPDF2 3.0+ (`PyPDF2==3.0.1`) – for reading and writing PDFs  
+- Pillow 10+ (`Pillow==10.0.0`) – for image handling and screenshots  
+- fpdf 1.7+ (`fpdf==1.7.2`) – alternative PDF generation  
+- pyserial 3.5+ (`pyserial==3.5`) – for serial communication (if used)  
