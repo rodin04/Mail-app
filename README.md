@@ -13,4 +13,9 @@ For example:
 
 ## Send mail
 
+1. Click the **New Mail** button
+2. Add as much **recipient** as you want
+3. Add files
+4. send your mail
+
 <img src="mail_frame.png" alt="Mail App Login Screenshot" width="600">
