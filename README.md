@@ -5,7 +5,7 @@ A simple Python Tkinter app for sending emails via SMTP with a clean and easy-to
 
 1. **Enter your email address** – for example, Gmail.  
 2. **Enable two-factor authentication** in your email account, then **generate an app password**.  
-   - The app password is usually a string of random letters and numbers, for example: `hiwhnsjwcbuwcjai`  
+   - The app password is usually a string of random letters and numbers, for example: `hiwh nsjw cbuw cjai`  
 3. **Enter your email and the app password** to log in.
 
 For example:
