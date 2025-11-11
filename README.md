@@ -29,3 +29,34 @@ For example:
 - **Send emails via SMTP** – Works with Gmail using an app password.  
 - **Login with app password** – Requires 2-factor authentication to generate an app password.  
 - **Dynamic interface** – Shows attached files and allows removing them before sending.  
+
+## Installation
+
+1. Open a terminal (Git Bash, PowerShell, or CMD).  
+2. Clone the repository:
+
+```bash
+git clone https://github.com/rodin04/cat_ai.git
+```
+
+3. Navigate to the project folder.
+```bash
+cd your_folder_path!!!
+```
+
+4. Install requirements.txt
+```bash
+pip install -r requirements.txt
+```
+
+## Start programm
+
+1. Open a terminal (Git Bash, PowerShell, or CMD).
+2. Navigate to the project folder.
+```bash
+cd your_folder_path!!!
+```
+3. Start python script
+```bash
+python mail.py
+```
