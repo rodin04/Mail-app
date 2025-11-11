@@ -19,3 +19,13 @@ For example:
 4. send your mail
 
 <img src="mail_frame.png" alt="Mail App Login Screenshot" width="600">
+
+## Features
+
+- **Add recipients** – Add multiple recipients for your email.  
+- **Remove recipients** – Remove recipients if needed.  
+- **Compose emails** – Enter subject and message content.  
+- **Attach files** – Add files like PDFs, images, or any other type to your email.  
+- **Send emails via SMTP** – Works with Gmail using an app password.  
+- **Login with app password** – Requires 2-factor authentication to generate an app password.  
+- **Dynamic interface** – Shows attached files and allows removing them before sending.  
