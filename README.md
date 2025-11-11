@@ -61,6 +61,16 @@ cd your_folder_path!!!
 python mail.py
 ```
 
+## Files / Structure
+
+- `mail.py` – Main Python script for the Mail App  
+- `requirements.txt` – Python dependencies  
+- `README.md` – Project documentation  
+- `.gitignore` – Git ignore file  
+- `LICENSE` – License file (CC BY-NC-ND 4.0 recommended)  
+- `login_example.png` – Screenshot of the Login Frame for README explanation  
+- `mail_frame.png` – Screenshot of the New Mail Frame for README explanation  
+
 ## Requirements
 
 - Python 3.12+  
