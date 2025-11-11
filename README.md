@@ -10,3 +10,5 @@ A simple Python Tkinter app for sending emails via SMTP with a clean and easy-to
 For example:
 
 <img src="login_example.png" alt="Mail App Login Screenshot" width="600">
+
+## Send Mail Frame
