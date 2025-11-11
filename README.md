@@ -12,3 +12,5 @@ For example:
 <img src="login_example.png" alt="Mail App Login Screenshot" width="600">
 
 ## Send mail
+
+<img src="mail_frame.png" alt="Mail App Login Screenshot" width="600">
