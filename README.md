@@ -1,5 +1,5 @@
 # Mail-app
 A simple Python Tkinter app for sending emails via SMTP with a clean and easy-to-use interface.
 
-##Login Frame
+## Login Frame
 
